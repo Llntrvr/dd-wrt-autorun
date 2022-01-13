@@ -104,3 +104,5 @@
 # Most important commit
 #nvram commit
 
+echo 'Auto Ran Complete';
+
